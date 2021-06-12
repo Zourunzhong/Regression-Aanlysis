@@ -1,2 +1,2 @@
-# Regression-Aanlysis
+# Regression-Analysis
 Regression Aanlysis
